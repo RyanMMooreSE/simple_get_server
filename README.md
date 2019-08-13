@@ -1,4 +1,4 @@
-#Simple Get Server
+Simple Get Server
 ---
 Simple Get Server aims to be a very simple and fast web server. Simple Get
 Server only accepts GET requests and should be used for static file serving.
